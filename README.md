@@ -6,7 +6,13 @@ Este proyecto genera una simulación de guerra entre municipios generando imagen
 
 ## 🚀 Cómo Usarlo  
 
-### 1️⃣ Generar la Simulación  
+### 1️⃣ Generar la Simulación
+
+Ejecuta el siguiente comando para generar la simulación:  
+
+```sh
+python Main.py
+```
 
 Esto creará una carpeta llamada `res` que contendrá:  
 👉 Imágenes generadas  
@@ -36,5 +42,15 @@ Este código ha sido utilizado en:
 - 🏴 **[@cordobawarbot](https://twitter.com/cordobawarbot)**  
 
 ---
+
+## 📸 Capturas  
+
+Aquí tienes algunas capturas del funcionamiento del proyecto:
+
+![Screenshot_5](https://github.com/user-attachments/assets/4ea23bff-a5d9-4edf-b110-9ba734091522)  
+![Screenshot_4](https://github.com/user-attachments/assets/54e1434e-1a4b-40fa-b061-57a38d71ef6b)  
+![Screenshot_3](https://github.com/user-attachments/assets/dd50fe5c-4600-4aee-9de1-df435439ae26)  
+
+
 
 🚀 ¡Disfruta del proyecto y siéntete libre de contribuir! 🚀
