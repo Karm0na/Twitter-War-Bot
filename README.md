@@ -1,6 +1,6 @@
-# 🏴‍☠️ Simulación y Publicación Automática en Twitter  
+# 🏴‍☠️ Twitter(X) War Bot
 
-Este proyecto genera una simulación de imágenes y textos y luego los publica automáticamente en Twitter.
+Este proyecto genera una simulación de guerra entre municipios generando imagenes del mapa con sus textos y luego los publica automáticamente en Twitter.
 
 ---
 
